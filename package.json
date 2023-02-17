@@ -1,0 +1,14 @@
+{
+  "name": "bot_alfred",
+  "version": "1.0.0",
+  "description": "bot helper",
+  "main": "mybot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "konstantinksh@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
